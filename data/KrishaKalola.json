@@ -1,0 +1,28 @@
+{
+  "name": "Krisha Kalola",
+  "type": "personal",
+  "bio": "I am aspiring frontend developer || Building cool stuff on internet :)",
+  "avatar": "https://github.com/KrishaKalola.png",
+  "links": [
+    {
+      "name": "Twitter: follow me",
+      "url": "https://twitter.com/KrishaKalola",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "LinkedIn: Let's connet",
+      "url": "https://www.linkedin.com/in/krisha-kalola-803953252/",
+      "icon": "FaLinkedin"
+    },
+     {
+      "name": "Github",
+      "url": "https://github.com/KrishaKalola",
+      "icon": "FaGithub"
+    },
+     {
+      "name": "Instagram",
+      "url": "https://instagram.com/krisha_kalola?igshid=ZDdkNTZiNTM=",
+      "icon": "FaInstagram"
+     }
+  ]
+}
